@@ -1,2 +1,2 @@
 # A short project over learning python programming
-git add <hello.py>
+git add hello.py
